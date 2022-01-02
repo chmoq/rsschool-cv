@@ -5,7 +5,8 @@
 **Location**: Murmansk, Russia \
 **Phone**: +7 987 726 8443 \
 **Email**: alicewasbeginning@gmail.com \
-**Telegram**: @chmoq
+[Telegram](https://t.me/chmoq) \
+[GitHub](https://github.com/chmoq)
 ***
 ### Skills:
 - HTML
