@@ -15,11 +15,15 @@
 - Git
 - Adobe Photoshop, Figma
 - English level - B2 (*Russian is native*)
+
 ***
+
 ### Courses:
-- HTML and CSS courses on https://ru.code-basics.com/
-- RS School (JS) https://rs.school/js-stage0/ (*in progress*)
+- HTML and CSS courses on [CodeBasics](https://ru.code-basics.com/)
+- JS on [RS School](https://rs.school/js-stage0/) (*in progress*)
+
 ***
+
 ### Code example:
 ```
 function multiply(a, b){
