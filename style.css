@@ -15,6 +15,7 @@ html, body{
   margin-right: auto;
   height: 100%;
 }
+
 #profilepic{
   width: 20%;
   border-radius: 50%;
@@ -23,28 +24,35 @@ h1 {
   color: white;
 }
 h2{
+  font-size: 16pt;
   color:#3A3E34;
   background-color:#bababa;
-  margin-bottom: 16px;
-  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-top: 32px;
 }
 #title{
+  font-size: 12pt;
   background-color: black;
 }
 header{
   display: flex;
+  justify-content: space-between;
   padding: 50px;
   background-color: black;
   align-items: center;
 }
 main{
-  padding-left: 32px;
   flex: 1 0 auto;
+  background-color: rgba(238, 238, 238, 0.918);
 }
+
 footer {
-  flex: 1 1 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
   background-color: black;
   padding: 20px;
+  align-items: center;
 }
 a {
   color: #3A3E34;
@@ -53,13 +61,17 @@ i{
   color: #bebebe;
 }
 #rslogo{
-  max-width: 20%;
+  height: 60px;
   filter: invert(1);
+}
+p, ul, code {
+  padding-left: 32px;
 }
 
 p{
   line-height: 1.5em;
   text-align: justify;
+  padding-right: 32px;
 
 }
 #white{
@@ -71,5 +83,5 @@ code{
   color: rgba(83, 83, 83, 0.884);
 }
 #ghlogo{
-  max-width: 20%;
+  height: 60px;
 }
