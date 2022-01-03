@@ -24,7 +24,7 @@ h1 {
 }
 h2{
   color:#3A3E34;
-  background-color:#F0EFF4;
+  background-color:#bababa;
   margin-bottom: 16px;
   margin-top: 10px;
 }
@@ -44,6 +44,7 @@ footer{
   flex: 1 1 auto;
   background-color: black;
   max-height: 100px;
+  padding: 20px;
 }
 a {
   color: #3A3E34;
@@ -54,4 +55,15 @@ i{
 #rslogo{
   max-width: 30%;
   filter: invert(1);
+  margin-bottom: 10px;
+}
+
+p{
+  line-height: 1.5em;
+  text-align: justify;
+
+}
+#white{
+  font-weight: bold;
+  color: white;
 }
