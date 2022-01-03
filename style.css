@@ -67,3 +67,7 @@ p{
   font-weight: bold;
   color: white;
 }
+code{
+  font-size: 120%;
+  color: rgba(83, 83, 83, 0.884);
+}
