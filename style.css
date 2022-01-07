@@ -4,7 +4,6 @@
 }
 html, body{
     font-family: Verdana, Tahoma, sans-serif;
-    height: 100%;
   }
 #wrapper{
   display: flex;
@@ -25,8 +24,8 @@ h1 {
 }
 h2{
   font-size: 16pt;
-  color:#3A3E34;
-  background-color:#bababa;
+  color:#797979;
+  background-color:#cfcfcf;
   margin-bottom: 20px;
   margin-top: 32px;
 }
@@ -44,6 +43,7 @@ header{
 main{
   flex: 1 0 auto;
   background-color: rgba(238, 238, 238, 0.918);
+  padding-bottom: 20px;
 }
 
 footer {
@@ -67,7 +67,6 @@ i{
 p, ul, code {
   padding-left: 32px;
 }
-
 p{
   line-height: 1.5em;
   text-align: justify;
